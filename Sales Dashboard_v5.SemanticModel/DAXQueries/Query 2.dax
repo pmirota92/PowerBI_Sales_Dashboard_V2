@@ -1,0 +1,6 @@
+EVALUATE
+	SUMMARIZE(
+		'Sales Raw Data',
+		'Sales Raw Data'[Product Category],
+		"Sales by Product", [SalesPerPoduct]
+	)
