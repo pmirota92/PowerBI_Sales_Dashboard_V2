@@ -6,4 +6,4 @@ It includes key metrics, sales trends, and customer demographics, focusing on di
 This comprehensive dashboard allows users to monitor sales data, analyze trends, and make informed decisions.
 
 ## Dashboard Demo
-![PowerBI-SalesDashboard](Details/SalesPBIDemo.gif)
+![PowerBI_Sales_Dashboard_V2](demo/SalesDemo.gif)
